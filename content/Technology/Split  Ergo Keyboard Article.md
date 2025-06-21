@@ -34,9 +34,11 @@ So the MoErgo Glove80 fixes both of these problems by virtue of splitting both h
 ## Row Stagger vs Ortholinear
 ### Row stagger 
 ![[Pasted image 20250614123219.png]]
+
 The keys are offset per each row
 ### Ortholinear or Columnar Stagger
 ![[Pasted image 20250614123303.png]]
+
 The keys are not offset per row but stacked on top of each other
 
 When learning the "textbook" method of ten-finger typing you are supposed to hit the c key with your middle finger, however, at least for me, when I bend my middle finger down, it finds itself squarely in the middle of the c and the x key. On an ortho layout however, there is no confusion as to which finger is supposed to hit which key, for just bending your finger downward and seeing where it ends up will tell  you. 
