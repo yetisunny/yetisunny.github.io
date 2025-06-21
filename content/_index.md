@@ -1,5 +1,8 @@
+
 ---
-title: YoYo
+title: Home
+template: index
 ---
 
-This is my page
+# Welcome
+This is where I write about everything and everything, and share it with the world.

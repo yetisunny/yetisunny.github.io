@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Luuks Digital Garden",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#1e1e2e",        // base
+          lightgray: "#313244",    // surface0
+          gray: "#45475a",         // surface1
+          darkgray: "#6c7086",     // surface2
+          dark: "#a6e3a1",         // green
+          secondary: "#a6e3a1",    // green
+          tertiary: "#94e2d5",     // teal
+          highlight: "rgba(166, 227, 161, 0.15)", // green with alpha
+          textHighlight: "#a6e3a188", // green with alpha
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e2e",        // base
+          lightgray: "#313244",    // surface0
+          gray: "#45475a",         // surface1
+          darkgray: "#6c7086",     // surface2
+          dark: "#a6e3a1",         // green
+          secondary: "#a6e3a1",    // green
+          tertiary: "#94e2d5",     // teal
+          highlight: "rgba(166, 227, 161, 0.15)", // green with alpha
+          textHighlight: "#a6e3a188", // green with alpha
         },
       },
     },
