@@ -19,6 +19,10 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    Component.MobileOnly(Component.ConditionalRender({
+      component: Component.RecentNotes(),
+      condition: (page) => page.fileData.slug === "index",
+    })),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -35,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.RecentNotes(),
+    Component.DesktopOnly(Component.RecentNotes()),
     Component.Explorer(),
   ],
   right: [
