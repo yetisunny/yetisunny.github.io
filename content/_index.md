@@ -1,8 +1,8 @@
 
 ---
-title: Home
+title: Nexus
 template: index
 ---
 
 # Welcome
-This is where I write about everything and everything, and share it with the world.
+This is where you can read articles/notes I have decided to publish from my Obsidian vault :)
