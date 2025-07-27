@@ -6,7 +6,7 @@ published: true
 [[Qwerty Layout]], we all know it, maybe love it , but should hate it.
 
 # Alternatives
-There are better ways of doing keyboard layouts, however it is important to note that there really is no objective "best" layout, because this depends on the kind of writing you do, and on the language you speak. But, generally speaking, there are some universal rules you should stick to. 
+There are better ways of doing keyboard layouts, however it is important to note that there really is no objective "best" layout, because this depends on the kind of [[writing]] you do, and on the language you speak. But, generally speaking, there are some universal rules you should stick to. 
 
 Just looking at the distribution of letters we mostly use, for english you see something like:
 

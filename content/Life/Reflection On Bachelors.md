@@ -2,7 +2,7 @@
 published: true
 ---
 # Personal Development 
-So I started studying in 2018, a wide eyed freshman, fully intending to complete my bachelors in 3 years time, and the masters in 2. Obviously though,  I am writing these words in 2025, which is quite a ways off from that original estimate.  
+So I started studying in 2018, a wide eyed freshman, fully intending to complete my bachelors in 3 years time, and the masters in 2. Obviously though,  I am [[writing]] these words in 2025, which is quite a ways off from that original estimate.  
 
 When I started studying I had expected to learn so many interesting things, and my hopes for university were high, and they were met in large part at first. Sure there were times when I felt like the things I was studying weren't particularly relevant to "real life", but the material was engaging nonetheless. However,  obviously not everything was equally engrossing. My interests don't lie in formal logic for instance, but having learned it has without question been beneficial to me in some immeasurable way. 
 ## The elephant in the room
@@ -51,7 +51,7 @@ The least interesting ones:
 Frankly the "least" ranked coures weren't bad , but if I am forced to think of 3 courses and rank them, then that's probably the ones.
 
 # Study progress
-As of writing this, the only remaining credits I need are from the course for which I am writing this very reflection, so 117.  There  is not much more to it than that :)
+As of [[writing]] this, the only remaining credits I need are from the course for which I am [[writing]] this very reflection, so 117.  There  is not much more to it than that :)
 
 My plans for after this are to finally start with a clean slate on the data science master. I am looking forward to doing courses, going to lectures about stuff that interests me. I do intend to keep working alongside it though, part time.  
 
